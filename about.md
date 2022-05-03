@@ -2,7 +2,7 @@
 layout: page
 title: Anastasios (Tasos) Tsourtis
 description: Applied Mathematics, PhD
-background: '/img/my_photo.jpg'
+background: '/img/my_photo_crop.jpg'
 ---
 
 ## Research
