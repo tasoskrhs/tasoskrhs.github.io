@@ -6,7 +6,7 @@ background: '/img/bg-post.jpg'
 ---
 
 ## Publications
-- **Tsourtis A.**, Papoutsoglou G., Pantazis Y. *"GAN-based Training of Semi-Interpretable Generators for Biological Data Interpolation and Augmentation"* <mark>(accepted at MDPI)</mark>
+- **Tsourtis A.**, Papoutsoglou G., Pantazis Y. *"GAN-based Training of Semi-Interpretable Generators for Biological Data Interpolation and Augmentation"*, MDPI Appl. Sci. 2022, 12(11), 5434 <a href="https://doi.org/10.3390/app12115434" target="_blank">link</a> <a href="https://github.com/tasoskrhs/conditional_ZIMM" target="_blank">code</a>
 
 - **Tsourtis A.**, Papoutsoglou G., Pantazis Y. *"Efficient Discrimination between Biological Populations via Neural-based Estimation of Rényi Divergence"* 4th International Conference on Uncertainty Quantification in Computational Sciences and Engineering, 28-30 June, 2021 <a href="https://scholar.google.gr/scholar?oi=bibs&cluster=12078736842544018829&btnI=1&hl=en" target="_blank">link</a>
 

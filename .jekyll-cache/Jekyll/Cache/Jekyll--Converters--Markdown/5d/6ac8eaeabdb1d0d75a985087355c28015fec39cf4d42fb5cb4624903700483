@@ -1,7 +1,7 @@
-I"�<h2 id="publications">Publications</h2>
+I"�	<h2 id="publications">Publications</h2>
 <ul>
   <li>
-    <p><strong>Tsourtis A.</strong>, Papoutsoglou G., Pantazis Y. <em>“GAN-based Training of Semi-Interpretable Generators for Biological Data Interpolation and Augmentation”</em> <mark>(accepted at MDPI)</mark></p>
+    <p><strong>Tsourtis A.</strong>, Papoutsoglou G., Pantazis Y. <em>“GAN-based Training of Semi-Interpretable Generators for Biological Data Interpolation and Augmentation”</em>, MDPI Appl. Sci. 2022, 12(11), 5434 <a href="https://doi.org/10.3390/app12115434" target="_blank">link</a> <a href="https://github.com/tasoskrhs/conditional_ZIMM" target="_blank">code</a></p>
   </li>
   <li>
     <p><strong>Tsourtis A.</strong>, Papoutsoglou G., Pantazis Y. <em>“Efficient Discrimination between Biological Populations via Neural-based Estimation of Rényi Divergence”</em> 4th International Conference on Uncertainty Quantification in Computational Sciences and Engineering, 28-30 June, 2021 <a href="https://scholar.google.gr/scholar?oi=bibs&amp;cluster=12078736842544018829&amp;btnI=1&amp;hl=en" target="_blank">link</a></p>
